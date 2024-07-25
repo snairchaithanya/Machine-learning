@@ -5,11 +5,11 @@ Each task is designed to address different Machine Learning challenges and provi
 How to measure the central tendency is explained and coded in this task
 we are given house_price.csv which contains property prices in the city of Bangalore. we need to examine price per square feet do the following:
 Detect the outliers and remove it using:
- 1.**Mean Function**
- 2.**Percentile method**
- 3.**IQR(Inter quartile range method)**
- 4.**Normal distribution**
- 5.**Zscore method**
+  1)**Mean Function**
+  2) **Percentile method**
+  3. **IQR(Inter quartile range method)**
+  4.**Normal distribution**
+  5.**Zscore method**
 Also, plot the box plot(for all the numerical columns), histplot(to check the normality of the column(price per sqft column))
 Check the correlation between all the numerical columns and plot heatmap.
 Scatter plot between the variables to check the correlation between them.
