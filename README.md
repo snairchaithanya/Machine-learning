@@ -59,3 +59,31 @@ Based on various market surveys, the consulting firm has gathered a large datase
 You are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for the management to
 
 
+# Task 5: Classification 
+The objective of this assessment is to evaluate your understanding and ability to apply supervised learning techniques to a real-world dataset.
+Dataset:
+Use the breast cancer dataset available in the sklearn library.
+Key components to be fulfilled :
+1. Loading and Preprocessing
+   - Load the breast cancer dataset from sklearn.
+   - Preprocess the data to handle any missing values and perform necessary feature scaling.
+   - Explain the preprocessing steps you performed and justify why they are necessary for this dataset.
+2. Classification Algorithm Implementation
+   - Implement the following five classification algorithms:
+     1. **Logistic Regression**
+     2. **Decision Tree Classifier**
+     3. **Random Forest Classifier**
+     4. **Support Vector Machine (SVM)**
+     5. **k-Nearest Neighbors (k-NN)**
+   - For each algorithm, provide a brief description of how it works and why it might be suitable for this dataset.
+3. Model Comparison
+   - Compare the performance of the five classification algorithms.
+   - Which algorithm performed the best and which one performed the worst.
+### Objective:
+The goal is to evaluate ability to apply supervised learning techniques to this dataset. This involves:
+
+>Loading and Preprocessing: Preparing the data for analysis.
+>Classification Algorithm Implementation: Applying various classification algorithms.
+>Model Comparison: Assessing the performance of different algorithms.
+
+
